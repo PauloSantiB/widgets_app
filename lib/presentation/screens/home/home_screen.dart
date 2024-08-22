@@ -15,7 +15,7 @@ static const String name = 'home_screen';
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Flutter + Material 3'),
+        title: Text('Flutter + Material 3 :)'),
       ),
       body: const _HomeView(),
     );
